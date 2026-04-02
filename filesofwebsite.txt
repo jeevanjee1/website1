@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 hello new file, how to upload this file named "fiesofwebsite.txt" in github?
 ok, fine i will figure out myself
+=======
+hello new file, how to upload this file named "fiesofwebsite.txt" in github?
+>>>>>>> f6245d4ae2d18da994176407c031729263cba858
+/git add filesofwebsite.txt
+//git commit -m "Updated website file"
+//git push origin main
